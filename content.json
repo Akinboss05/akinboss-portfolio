@@ -1,0 +1,211 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "icon_name": "ImagePlayIcon",
+      "title": "Branding / Logo Design",
+      "description": "Developing unique brand identities and logos that tell your story and resonate with your target market."
+    },
+    {
+      "id": 2,
+      "icon_name": "LayersIcon",
+      "title": "Graphics Design",
+      "description": "Designing compelling visual assets for marketing, social media, and print that elevate your brand's presence."
+    },
+    {
+      "id": 3,
+      "icon_name": "CodeIcon",
+      "title": "Cybersecurity SOC Analyst",
+      "description": "“Cybersecurity SOC Analyst skilled in threat monitoring, incident response, SIEM analysis, vulnerability assessment, and security operations. Experienced in identifying and mitigating cyber threats while maintaining the confidentiality, integrity, and availability of organizational systems and data.”"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "author": "Olusegun ifeoluwa ",
+      "quote": "Working with Akinboss was an absolute pleasure. Their creativity and attention to detail brought our vision to life in ways we couldn't have imagined. The final designs were stunning and have significantly boosted our brand engagement.",
+      "role": "CEO, Tommytechy.",
+      "avatar": "assets/client-1.jpg"
+    }
+  ],
+  "gallery_items": [
+    {
+      "id": 10,
+      "title": "Event flyer",
+      "image": "assets/project-10.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop"
+      ],
+      "role": "Lead Designer",
+      "category": "Visual Design",
+      "thumbnail": "assets/project-10-thumb.webp"
+    },
+    {
+      "id": 22,
+      "title": "Advert Design",
+      "image": "assets/project-22.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop",
+        "Coreldraw"
+      ],
+      "role": "Lead Designer",
+      "category": "Visual Design",
+      "thumbnail": "assets/project-22-thumb.webp"
+    },
+    {
+      "id": 6,
+      "title": "Digital Design ",
+      "image": "assets/project-6.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop"
+      ],
+      "role": "Lead Designer",
+      "category": "Visual Design",
+      "thumbnail": "assets/project-6-thumb.webp"
+    },
+    {
+      "id": 23,
+      "title": "Ezekson Logo Design",
+      "image": "assets/project-23.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop",
+        "Coreldraw"
+      ],
+      "role": "Lead Designer",
+      "category": "Logo Design",
+      "thumbnail": "assets/project-23-thumb.webp"
+    },
+    {
+      "id": 21,
+      "title": "Bjas Hub Crypto Training",
+      "image": "assets/project-21.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop",
+        "coreldraw"
+      ],
+      "role": "Lead designer",
+      "category": "Web3",
+      "thumbnail": "assets/project-21-thumb.webp"
+    },
+    {
+      "id": 4,
+      "title": "Sunday service flyer ",
+      "image": "assets/project-4.jpg",
+      "description": "Sunday service flyer for accf ikole chapter ",
+      "tools": [
+        "Photoshop",
+        ""
+      ],
+      "role": "Graphics Designer ",
+      "category": "Church poster design ",
+      "thumbnail": "assets/project-4-thumb.webp"
+    },
+    {
+      "id": 24,
+      "title": "Imania Beauté Logo concept 1",
+      "image": "assets/project-24.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop",
+        "Coreldraw"
+      ],
+      "role": "Project Manager",
+      "category": "Logo Design",
+      "thumbnail": "assets/project-24-thumb.webp"
+    },
+    {
+      "id": 19,
+      "title": "Photography",
+      "image": "assets/project-19.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop"
+      ],
+      "role": "Lead designer",
+      "category": "Visual Design",
+      "thumbnail": "assets/project-19-thumb.webp"
+    },
+    {
+      "id": 8,
+      "title": "Business poster",
+      "image": "assets/project-8.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop"
+      ],
+      "role": "Lead Designer",
+      "category": "Visual Design",
+      "thumbnail": "assets/project-8-thumb.webp"
+    },
+    {
+      "id": 17,
+      "title": "Movie poster",
+      "image": "assets/project-17.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop"
+      ],
+      "role": "Lead designer",
+      "category": "Visual Design",
+      "thumbnail": "assets/project-17-thumb.webp"
+    },
+    {
+      "id": 25,
+      "title": "Imania Beauté Logo Concept 2",
+      "image": "assets/project-25.jpg",
+      "description": null,
+      "tools": [
+        "Photoshop",
+        "Coreldraw"
+      ],
+      "role": "Project Manager",
+      "category": "Logo Design",
+      "thumbnail": "assets/project-25-thumb.webp"
+    }
+  ],
+  "site_config": [
+    {
+      "id": 1,
+      "bio_title": "A Passionate Graphics Designer",
+      "bio_p1": "Hello! I'm Akinboyewa Precious, a passionate and highly skilled creative professional with deep expertise across design, digital creativity, and financial market analysis. With several years of experience in the creative and tech industry, I’ve honed my abilities across multiple powerful tools — from Photoshop (95%), Illustrator (92%), Canva (98%), and Corel Draw (88%) to advanced video editing (89%).\n\nMy work is driven by a commitment to bringing ideas to life through clean, compelling, and visually striking designs. Whether I’m creating branding assets, crafting digital content, or editing high-quality videos, my goal is always to blend aesthetics with purpose and clarity.\n\nBeyond the creative space, I’m also deeply invested in the financial markets. With strong proficiency in Forex analysis (90%) and trading digital coins (85%), I’ve developed a strategic approach that allows me to interpret market trends, manage risks, and make informed trading decisions.\n\n",
+      "bio_p2": "I thrive on continuous learning and enjoy pushing my limits to stay ahead in both design and market innovation. And when I’m not creating or analyzing charts, you can find me brainstorming new ideas, exploring digital trends, or working on unique personal projects.\n\n",
+      "about_image_url": "assets/about.jpeg",
+      "hero_image_url": "assets/portrait.jpeg",
+      "skills": [
+        {
+          "name": "Photoshop",
+          "percentage": 95
+        },
+        {
+          "name": "Illustrator",
+          "percentage": 92
+        },
+        {
+          "name": "Canva",
+          "percentage": 98
+        },
+        {
+          "name": "Corel Draw",
+          "percentage": 88
+        },
+        {
+          "name": "Forex Analysis",
+          "percentage": 90
+        },
+        {
+          "name": "Trading Coins",
+          "percentage": 85
+        },
+        {
+          "name": "Video Editing",
+          "percentage": 89
+        }
+      ]
+    }
+  ]
+}
